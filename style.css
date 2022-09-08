@@ -39,3 +39,8 @@ button {
     margin-top: 1.5rem;
     margin-left: 40%;
 }
+
+button:hover {
+    color: white;
+    background-color: black;
+}
